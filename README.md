@@ -1,4 +1,4 @@
-# toefl-kmf-unblock
+# Remove blurred effect on KMF website
 
 **```Purpose```** Remove blurred effect on the TOEFL practice page and the detailed answer section of KMF website  
 **```Usage```** Add Javascript code into bookmarks as URL and apply them on the corresponding page of KMF website  
